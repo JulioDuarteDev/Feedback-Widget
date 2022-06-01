@@ -1,3 +1,11 @@
+# Node modules
 node_modules
-# Keep environment variables out of version control
+
+# keep enviroment variables out of version control
 .env
+
+# tests folder
+coverage
+
+# dist
+dist
