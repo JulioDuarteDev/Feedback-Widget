@@ -600,6 +600,16 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@swc/core-linux-x64-gnu@1.2.186":
+  "integrity" "sha512-lGBOQd9GZsk6JQd1teZPIirir4vpcGPFlEKaoWMHTVgb4wyU0I6sW2edoHMWu+mUugs12/JpHWh7sw+ubgZzHA=="
+  "resolved" "https://registry.npmjs.org/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.2.186.tgz"
+  "version" "1.2.186"
+
+"@swc/core-linux-x64-musl@1.2.186":
+  "integrity" "sha512-H6pFxBpg3R+g0DDXzs39c9A7+O/ai1Zwliwo7jwOfLu4ef/cq2xrKa0AJ22lawtU9A+4gwRCX78phf2ezjC2jw=="
+  "resolved" "https://registry.npmjs.org/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.2.186.tgz"
+  "version" "1.2.186"
+
 "@swc/core-win32-x64-msvc@1.2.186":
   "integrity" "sha512-T+sNpLbtg5Q1zrDIOwzRDVCKQHb4eQx8MlIk9tF74amlBLt1GKBdgRn17YAA6GrNHRw7QHaDIeCEdc5OuUztvg=="
   "resolved" "https://registry.npmjs.org/@swc/core-win32-x64-msvc/-/core-win32-x64-msvc-1.2.186.tgz"
