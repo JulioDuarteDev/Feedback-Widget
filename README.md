@@ -3,7 +3,7 @@
 #  Feedback Widget 
   Este projeto, que foi desenvolvido para o evento Next Level Week #8 da Rocketseat, se trata de um widget que recebe bugs e sugestões enviadas por usuários e os armazena em um banco de dados, além de enviar um email contendo o tipo, descrição e screenshot desses feedbacks.
 
-Ele se encontra disponível [aqui](https://feedback-widget-maoiki.vercel.app/).
+Caso queira conferir, se encontra disponível <a href="https://feedback-widget-maoiki.vercel.app/" target="_blank"> aqui! </a>
 
 ## :man_technologist: Demonstração
 ![Demonstração de envio de feedback](.github/demonstracao-envio-comprimido.gif)
