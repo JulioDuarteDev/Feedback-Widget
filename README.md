@@ -35,7 +35,7 @@ Caso queira conferir, se encontra disponível <a href="https://feedback-widget-m
 
 ![Demonstração de navegação pelo teclado e responsividade](.github/responsividade-acessibilidade.gif)
 
-Todo o projeto tem foco em ser responsivo e acessível, então existiu a preocupação com nível de contraste entre elementos, acesso a todas as funcionalidades utilizando apenas o teclado, etc. 
+Todo o projeto tem foco em ser responsivo e acessível, então existiu o cuidado em relação ao nível de contraste entre elementos, acesso a todas as funcionalidades utilizando apenas o teclado, melhorias para leitores de tela, etc. 
 
 ## :heavy_check_mark: O que implementei individualmente para complementar o projeto:
 - [ ] Adicionar light e dark themes
