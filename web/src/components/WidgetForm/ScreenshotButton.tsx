@@ -31,7 +31,10 @@ export function ScreenshotButton ({
     return(
       <button
       type="button"
-      className="p-1 w-10 h-10 rounded-md border-transparent flex justify-end items-end text-zinc-400 hover:text-zinc-100 transition-colors"
+      className="p-1 w-10 h-10 rounded-md border-transparent flex justify-end items-end 
+      text-light-text_secondary
+      hover:text-light-text_primary
+      dark:text-dark-text_secondary dark:hover:text-dark-text_primary transition-colors"
       onClick={() => onScreenshotTook(null)}
       style={{
         backgroundImage: `url(${screenshot})`,
@@ -49,10 +52,11 @@ export function ScreenshotButton ({
     <button 
     type="button"
     onClick={handleTakeScreenshot}
-    className="p-2 bg-zinc-800 rounded-md border-transparent hover:bg-zinc-700 transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-zinc-900 focus:ring-brand-500"
+    className="p-2 dark:bg-dark-surface_secondary bg-light-surface_secondary rounded-md border-transparent hover:bg-light-surface_secondary_hover dark:hover:bg-dark-surface_secondary_hover transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2  focus:ring-offset-light-surface_primary dark:focus:ring-offset-dark-surface_primary focus:ring-brand-500"
+    title="Capturar tela"
     >
 
-      {isTakingScreenshot ? <Loading /> : <Camera className="w-6 h-6 text-zinc-100" />
+      {isTakingScreenshot ? <Loading /> : <Camera className="w-6 h-6 dark:text-dark-text_primary text-light-text_primary " />
 }
     </button>
 
