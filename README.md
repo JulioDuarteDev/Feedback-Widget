@@ -37,10 +37,4 @@ Caso queira conferir, se encontra disponível <a href="https://feedback-widget-m
 
 Todo o projeto tem foco em ser responsivo e acessível, então existiu o cuidado em relação ao nível de contraste entre elementos, acesso a todas as funcionalidades utilizando apenas o teclado, melhorias para leitores de tela, etc. 
 
-## :heavy_check_mark: O que implementei individualmente para complementar o projeto:
-- [ ] Adicionar light e dark themes
-- [ ] Alterar serviço de email
-- [ ] Criar dashboard mostrando os feedbacks
-- [ ] Validação de campos
-
 
